@@ -21,5 +21,10 @@ namespace New_O
         {
             button1.Text = "O_A+1";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "O_A+2";
+        }
     }
 }
